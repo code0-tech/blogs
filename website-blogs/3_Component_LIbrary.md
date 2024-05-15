@@ -1,4 +1,4 @@
-A well-designed and well-thought website has many benefits. Its catchy, leaves a lasting good impression on the viewer
+A well-designed and well-thought website has many benefits. Its catchy, leaves a lasting good impressions on the viewer
 and potential customers. It reflects the professionalism and attention to detail of the creator/company. Having an
 in-house component library can streamline the design and development process, ensuring consistency
 across different parts of the website or even across multiple projects. It also allows for easier
@@ -9,7 +9,7 @@ companies, from enhancing brand image to improving user satisfaction.
 ## But what's a component library
 
 If you have worked with Microsoft applications before you might notice that there is a consistency through the design of
-the application. That's thanks to their component library. Once programmed and styled it can be used through their
+the application. That's thanks to their component library. Once programmed and styled it can be used throughout their
 software.
 
 1. **Consistency and Professionalism:** A centralized library ensures consistent design across products, fostering brand
@@ -27,7 +27,7 @@ Just to name some benefits!
 ## When to create a component library?
 
 While the cost and need for skilled workers can be barriers for small businesses, developer-friendly component libraries
-like trendy shadcn offer ready-made solutions. These libraries accelerate development and enhance productivity.
+like trendy `shadcn` offer ready-made solutions. These libraries accelerate development and enhance productivity.
 Alternatively, CSS frameworks provide pre-built components, though they may lack customization options.
 
 Regardless of the organization's size, creating a component library becomes essential for scalability and streamlined
@@ -38,7 +38,7 @@ aesthetics and functionality.
 ## Why we build pictor.
 
 Our primary goal was to deliver an exceptional user experience. Existing component libraries didn't meet our design
-standards. Many were too colorful and didn't align with our vision. Additionally, our complex component architecture
+standards. Many were too strict and didn't align with our vision. Additionally, our complex component architecture
 made adopting an existing library risky, as it could compromise simplicity and result in a cluttered main application.
 To ensure a seamless user experience and facilitate future product expansion, we created [pictor](https://github.com/code0-tech/pictor).
 
