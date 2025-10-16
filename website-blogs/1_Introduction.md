@@ -38,7 +38,7 @@ spaceship to a tree. Let's start with this analogy.
 
 ## Exploring the Web Editor: A Sneak Peek into the Future of Backend-Development
 
-<img src="../placeholder/pictures/introduction_scheme.png" alt="application_preview" height="50%" width="50%">
+<img src="./pictures/introduction_scheme.png" alt="application_preview" height="50%" width="50%">
 
 Here's a snapshot of the web editor, captured on the day of this blog's release. In the image, you can observe a basic
 RESTful API setup, designed for creating users with specific properties. For those unfamiliar with RESTful APIs, here's
@@ -56,7 +56,6 @@ This example illustrates the fundamental functionality of the web editor. While 
 editor will support various other functionalities including cron jobs, event-based flows or other protocols like MQTT
 outside the common backend/frontend development. Stay tuned for more insights in upcoming blogs.
 
-(start option 1)
 **The Inner Workings of the Web Editor**
 
 At first glance, the image may seem like a simple interface, but beneath the surface, numerous processes are taking place.
